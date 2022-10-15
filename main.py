@@ -5,7 +5,7 @@ from telebot import types
 from telebot.apihelper import edit_message_reply_markup
 from telebot.types import ReplyKeyboardRemove
 
-bot = telebot.TeleBot('5752723251:AAGHVBXfDfBC8gsicjUQCZclZE-CB-M1s7M')
+bot = telebot.TeleBot(' ')
 
 kml_filename = "828.kml"
 
